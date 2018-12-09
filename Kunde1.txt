@@ -1,0 +1,7 @@
+1;1;TRANSPOREON GmbH, Magirus-Deutz-Straﬂe 16, 89077 Ulm, Germany;48.3988735;9.956896;MERCAREON GmbH, Pfarrer-Weiﬂ-Weg 12, 89077 Ulm, Germany;48.395475;9.9571223;
+1;2;MERCAREON GmbH, Pfarrer-Weiﬂ-Weg 12, 89077 Ulm, Germany;48.395475;9.9571223;TRANSPOREON GmbH, Chausseestraﬂe 103, 10115 Berlin, Germany;52.5321176;13.3786138;
+1;3;TICONTRACT GmbH, Heisinger Straﬂe 12, 87437 Kempten, Germany;47.7623819;10.3285959;TRANSPOREON GmbH, Chausseestraﬂe 103, 10115 Berlin, Germany;52.5321176;13.3786138;
+2;4;TRANSPOREON GmbH, Magirus-Deutz-Straﬂe 16, 89077 Ulm, Germany;48.3988735;9.956896;TRANSPOREON Sp. z o. o., Kamie?skiego 47, 30-644 KrakÛw, Poland;50.0271684;19.9615505;
+3;5;TRANSPOREON, 76 route de la Demi Lune, 92800 Puteaux, France;48.8935711;2.2344982;TRANSPOREON GmbH, Chausseestraﬂe 103, 10115 Berlin, Germany;52.5321176;13.3786138;
+3;6;TRANSPOREON, 76 route de la Demi Lune, 92800 Puteaux, France;48.8935711;2.2344982;TICONTRACT GmbH, Heisinger Straﬂe 12, 87437 Kempten, Germany;47.7623819;10.3285959;
+3;7;TRANSPOREON, 76 route de la Demi Lune, 92800 Puteaux, France;48.8935711;2.2344982;MERCAREON GmbH, Pfarrer-Weiﬂ-Weg 12, 89077 Ulm, Germany;48.395475;9.9571223;
